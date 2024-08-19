@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Bom",
-                afirmacao: "Acredita que 6 aulas são boas para os alunos."
+                afirmacao: "Acredita que as 6 aulas são boas para os alunos."
             },
             {
                 texto: "Ruim",
-                afirmacao: "Acredita que 6 aulas são ruins para os alunos."
+                afirmacao: "Acredita que as 6 aulas são ruins para os alunos."
             }
         ]
     }, 
